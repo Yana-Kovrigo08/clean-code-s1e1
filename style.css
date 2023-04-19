@@ -55,7 +55,7 @@ button {
   cursor: pointer;
 }
 button:hover {
-  color: #3a3a3a;
+    color: #3a3A3a;
 }
 /* Heading */
 h3,
@@ -69,16 +69,16 @@ label[for='new-task'] {
   text-transform: uppercase;
 }
 input[type="text"] {
-  margin: 0;
-  font-size: 18px;
-  line-height: 18px;
-  height: 21px;
-  padding: 0 9px;
-  border: 1px solid #ddd;
-  background: #fff;
-  border-radius: 6px;
-  font-family: Lato, sans-serif;
-  color: #888;
+    margin: 0;
+    font-size: 18px;
+    line-height: 18px;
+    height: 21px;
+    padding: 0 9px;
+    border: 1px solid #dDd;
+    background: #FFF;
+    border-radius: 6px;
+    font-family: Lato, sans-serif;
+    color: #888;
 }
 input[type="text"]:focus {
   color: #333;
@@ -115,8 +115,8 @@ li > label {
   font-size: 18px;
   width: 226px;
 }
-li > input[type="text"] {
-  width: 226px
+li >    input[type="text"] {
+    width: 226px
 }
 button.delete img {
   height: 2em;
